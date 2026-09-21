@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <title>赚够一亿就退休：咪与母鸡测试精灵</title>
+  <defs>
+    <style>.o{stroke:#3a281f;stroke-width:2.2;stroke-linecap:round;stroke-linejoin:round}.d{fill:#3b302d}.g{fill:#77716b}.a{fill:#c9783f}.a2{fill:#e3a052}.w{fill:#fff7df}.p{fill:#e99b94}.eye{fill:#211b18}</style>
+    <filter id="soft-shadow" x="-40%" y="-100%" width="180%" height="300%"><feGaussianBlur stdDeviation="1.1"/></filter>
+
+    <symbol id="mi-idle" viewBox="0 0 64 64">
+      <ellipse cx="32" cy="55" rx="17" ry="4" fill="#4c4036" opacity=".22" filter="url(#soft-shadow)"/>
+      <path d="M19 43C10 42 8 32 14 27C18 24 20 28 17 31C14 34 15 38 21 38" fill="none" class="o d" stroke-width="5"/>
+      <path d="M18 31C18 23 24 19 32 19C42 19 47 25 46 36C45 46 40 52 31 52C22 52 18 44 18 31Z" class="o d"/>
+      <path d="M20 22L22 10L30 18M37 17L46 10L46 24" class="o d"/>
+      <path d="M22 13L24 19L28 17M40 17L44 13L44 21" fill="#df9a86"/>
+      <path d="M20 30C20 20 26 16 34 16C42 16 48 21 47 31C46 39 41 43 33 43C25 43 20 38 20 30Z" class="o d"/>
+      <path d="M20 28C22 20 27 18 31 18C29 23 31 27 28 31C25 34 22 33 20 32Z" class="a"/>
+      <path d="M35 17C42 17 47 22 47 28C42 29 39 27 38 23Z" class="a2"/>
+      <path d="M28 35C31 32 36 32 39 36C38 41 29 42 28 35Z" class="w"/>
+      <ellipse cx="28" cy="29" rx="1.7" ry="2" class="eye"/><ellipse cx="39" cy="29" rx="1.7" ry="2" class="eye"/>
+      <path d="M32 33L34 33L33 35Z" class="p"/><path d="M30 37C32 39 35 39 37 37" fill="none" class="o" stroke-width="1.2"/>
+      <path d="M20 45C20 40 24 38 28 40V52H20ZM37 40C42 39 45 42 45 47V52H37Z" class="o d"/>
+      <path d="M21 48H28V53H21ZM38 48H45V53H38Z" class="w"/>
+      <path d="M18 34C23 32 26 35 27 40C22 43 18 40 18 34ZM39 38C42 34 46 35 47 40C44 43 41 43 39 38Z" class="a"/>
+    </symbol>
+
+    <symbol id="mi-walk-1" viewBox="0 0 64 64">
+      <ellipse cx="32" cy="54" rx="20" ry="4" fill="#4c4036" opacity=".22"/>
+      <path d="M17 36C9 33 10 23 17 22C21 21 22 26 19 28C15 30 15 33 20 34" fill="none" class="o d" stroke-width="5"/>
+      <path d="M18 30C24 23 37 22 45 28C49 31 49 39 43 43C36 47 23 45 18 40Z" class="o d"/>
+      <path d="M38 22L40 12L46 20M49 21L56 15L55 27" class="o d"/>
+      <path d="M38 29C39 21 45 18 51 20C57 22 59 28 56 34C53 40 44 40 40 36Z" class="o d"/>
+      <path d="M40 27C42 22 45 21 48 21C47 26 46 29 42 31Z" class="a"/>
+      <path d="M50 21C54 22 57 25 57 29C54 30 52 28 50 25Z" class="a2"/>
+      <path d="M46 33C48 31 53 31 55 34C52 38 48 38 46 33Z" class="w"/>
+      <ellipse cx="47" cy="29" rx="1.5" ry="1.8" class="eye"/><ellipse cx="54" cy="29" rx="1.5" ry="1.8" class="eye"/>
+      <path d="M50 33L52 33L51 35Z" class="p"/>
+      <path d="M24 42L20 52H14M31 43L35 52H42M40 42L45 49H51" fill="none" class="o" stroke-width="3.4"/>
+      <path d="M22 27C28 24 32 25 34 31C31 36 25 36 21 32Z" class="a"/><path d="M34 39C39 35 44 36 46 41C42 45 37 45 34 39Z" class="a2"/><path d="M17 39C22 37 26 39 27 44C23 47 18 45 17 39Z" class="w"/>
+    </symbol>
+
+    <symbol id="mi-walk-2" viewBox="0 0 64 64">
+      <ellipse cx="32" cy="54" rx="20" ry="4" fill="#4c4036" opacity=".22"/>
+      <path d="M17 36C9 33 10 23 17 22C21 21 22 26 19 28C15 30 15 33 20 34" fill="none" class="o d" stroke-width="5"/>
+      <path d="M18 30C24 23 37 22 45 28C49 31 49 39 43 43C36 47 23 45 18 40Z" class="o d"/>
+      <path d="M38 22L40 12L46 20M49 21L56 15L55 27" class="o d"/><path d="M38 29C39 21 45 18 51 20C57 22 59 28 56 34C53 40 44 40 40 36Z" class="o d"/>
+      <path d="M40 27C42 22 45 21 48 21C47 26 46 29 42 31Z" class="a"/><path d="M50 21C54 22 57 25 57 29C54 30 52 28 50 25Z" class="a2"/><path d="M46 33C48 31 53 31 55 34C52 38 48 38 46 33Z" class="w"/>
+      <ellipse cx="47" cy="29" rx="1.5" ry="1.8" class="eye"/><ellipse cx="54" cy="29" rx="1.5" ry="1.8" class="eye"/><path d="M50 33L52 33L51 35Z" class="p"/>
+      <path d="M23 42L28 52H34M32 43L27 51H20M41 42L47 52H54" fill="none" class="o" stroke-width="3.4"/>
+      <path d="M22 27C28 24 32 25 34 31C31 36 25 36 21 32Z" class="a"/><path d="M34 39C39 35 44 36 46 41C42 45 37 45 34 39Z" class="a2"/><path d="M17 39C22 37 26 39 27 44C23 47 18 45 17 39Z" class="w"/>
+    </symbol>
+
+    <symbol id="mi-sit" viewBox="0 0 64 64">
+      <ellipse cx="32" cy="56" rx="18" ry="4" fill="#4c4036" opacity=".22"/>
+      <path d="M43 48C55 47 57 55 49 56C43 57 42 53 46 52" fill="none" class="o d" stroke-width="5"/>
+      <path d="M23 28C18 35 18 49 24 54H42C47 47 45 35 40 28Z" class="o d"/>
+      <path d="M20 23L22 10L30 18M37 17L46 10L46 24" class="o d"/><path d="M20 30C20 20 26 16 34 16C42 16 48 21 47 31C46 39 41 43 33 43C25 43 20 38 20 30Z" class="o d"/>
+      <path d="M20 28C22 20 27 18 31 18C29 24 30 28 26 32Z" class="a"/><path d="M36 17C43 18 47 22 47 28C42 29 39 26 38 22Z" class="a2"/><path d="M28 35C31 32 36 32 39 36C37 41 30 41 28 35Z" class="w"/>
+      <ellipse cx="28" cy="29" rx="1.7" ry="2" class="eye"/><ellipse cx="39" cy="29" rx="1.7" ry="2" class="eye"/><path d="M32 33L34 33L33 35Z" class="p"/>
+      <path d="M25 40C30 44 36 44 41 40V54H25Z" class="w"/><path d="M21 50H29V55H21M37 50H45V55H37" class="w"/>
+    </symbol>
+
+    <symbol id="mi-sleep" viewBox="0 0 64 64">
+      <ellipse cx="32" cy="53" rx="23" ry="5" fill="#4c4036" opacity=".22"/>
+      <path d="M12 42C15 27 31 22 44 29C55 35 53 49 41 53C27 58 9 54 12 42Z" class="o d"/>
+      <path d="M43 34C54 31 58 39 53 47C48 55 35 54 31 49C40 50 46 44 43 34Z" class="a"/>
+      <path d="M14 38L17 28L24 34M27 33L35 27L35 39" class="o d"/>
+      <path d="M14 41C14 34 19 31 25 32C32 33 35 38 32 44C29 50 19 50 15 45Z" class="o d"/>
+      <path d="M16 40C18 35 22 34 25 34C25 39 23 43 18 44Z" class="a2"/><path d="M20 45C23 42 28 43 30 46C27 50 22 50 20 45Z" class="w"/>
+      <path d="M19 41C21 43 23 43 25 41M27 41C29 43 31 43 32 41" fill="none" class="o" stroke-width="1.4"/>
+    </symbol>
+
+    <g id="hen-body">
+      <ellipse cx="31" cy="54" rx="19" ry="4" fill="#4c4036" opacity=".2"/>
+      <path d="M13 35C15 25 25 21 36 24C45 26 49 35 44 43C38 52 20 51 14 43Z" class="o w"/>
+      <path d="M34 24C35 16 41 12 48 16C55 21 53 32 45 34C39 35 34 31 34 24Z" class="o w"/>
+      <path d="M41 16C40 11 43 8 46 12C47 8 52 10 50 15" fill="#d34f3d" class="o" stroke-width="1.4"/>
+      <path d="M50 22L58 26L51 29Z" fill="#e4a33a" class="o" stroke-width="1.4"/>
+      <ellipse cx="47" cy="22" rx="1.7" ry="1.9" class="eye"/>
+      <path d="M19 34C25 28 34 30 38 36C34 44 23 45 18 39Z" fill="#ead9ad" class="o" stroke-width="1.4"/>
+      <path d="M16 30L9 25L11 35L7 38L16 41" class="o w"/>
+    </g>
+    <symbol id="hen-idle" viewBox="0 0 64 64">
+      <use href="#hen-body"/>
+      <path d="M25 49V55M37 49V55M22 55H28M34 55H40" fill="none" stroke="#a86f2f" stroke-width="2.4" stroke-linecap="round"/>
+    </symbol>
+
+    <symbol id="hen-walk-1" viewBox="0 0 64 64">
+      <use href="#hen-body"/><path d="M25 49L20 57M37 49L42 54M17 57H23M40 54H46" fill="none" stroke="#a86f2f" stroke-width="2.7" stroke-linecap="round"/>
+    </symbol>
+    <symbol id="hen-walk-2" viewBox="0 0 64 64">
+      <use href="#hen-body"/><path d="M25 49L30 54M37 49L33 57M28 54H34M30 57H36" fill="none" stroke="#a86f2f" stroke-width="2.7" stroke-linecap="round"/>
+    </symbol>
+    <symbol id="hen-peck" viewBox="0 0 64 64">
+      <ellipse cx="31" cy="54" rx="19" ry="4" fill="#4c4036" opacity=".2"/>
+      <path d="M13 35C15 25 25 21 36 24C45 26 49 35 44 43C38 52 20 51 14 43Z" class="o w"/>
+      <path d="M37 35C43 32 51 34 52 41C53 47 48 51 42 49C36 47 34 40 37 35Z" class="o w"/>
+      <path d="M48 45L56 51L47 51Z" fill="#e4a33a" class="o" stroke-width="1.4"/>
+      <ellipse cx="48" cy="41" rx="1.7" ry="1.9" class="eye"/>
+      <path d="M19 34C25 28 34 30 38 36C34 44 23 45 18 39Z" fill="#ead9ad" class="o" stroke-width="1.4"/>
+      <path d="M25 49V55M37 49V55" fill="none" stroke="#a86f2f" stroke-width="2.4" stroke-linecap="round"/>
+    </symbol>
+  </defs>
+  <use href="#mi-idle" width="64" height="64"/>
+</svg>
